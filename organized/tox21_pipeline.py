@@ -1,7 +1,7 @@
 # tox21_pipeline.py
 # ==============================================================================
 #  Project: High-Dimensional Analysis of the Tox21 Dataset
-#  Author: Gemini AI + Additions for RMT→Motif Mapping
+#  Author: Itay Meiri (With a little help from Gemini!)
 # ==============================================================================
 
 import os
