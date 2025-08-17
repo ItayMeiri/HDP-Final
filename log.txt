@@ -1,0 +1,41 @@
+This project used a significant amount of LLMs tools for various reasons and abilities:
+
+1. Grammarly
+Grammarly was used for the report to correct grammar usage, rewriting, etc. 
+
+
+2. Co-pilot(built in IDE) - Edit mode for code refactoring, bug-fixing, etc. Ask mode was used for clarifications, quick questions and small code assistance. Agent mode was not used. 
+
+3. Gemini + ChatGPT - both were used for assistance in writing and structuring the report, finding citations, etc. 
+Additionally, these tools were used to throw ideas back and forth about the project, discuss analysis results, implement new analysis, etc. 
+
+Some examples could be seen here:
+Covertype:
+https://chatgpt.com/c/689f3d52-91a8-8322-9f39-7a05bc476035
+
+MoleculeNet:
+https://chatgpt.com/c/689f3d52-91a8-8322-9f39-7a05bc476035
+
+Silhouette:
+https://chatgpt.com/c/68a11ebc-45c8-832e-b3e5-922d9105657a
+
+conda assistance:
+https://chatgpt.com/c/68a12179-d064-8333-b394-450721c557a2
+
+Or even attempts at breakdowns of large code:
+https://chatgpt.com/c/68a11585-58b4-832f-bff3-f3e15b66feae
+
+Note - not all responses were used, many were changed by me, or co-pilot later, based on my needs for the project. 
+
+
+Further usage:
+* Help with citations for the report
+* Refactoring errors
+* Code refactoring into components
+
+
+4. In-build overleaf AI tools for LaTeX assistance - i.e package to include, table organization, error solving, etc. 
+
+
+All outputs from LLMs was, to the best of my ability, verified and checked multiple times.
+
