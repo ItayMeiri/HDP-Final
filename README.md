@@ -18,7 +18,9 @@ HDP-Final/
 ├─ runner.py                   # Single entry point; runs the full pipeline
 ├─ final_report.pdf            # Concise technical report with results
 ├─ environment.yml             # Full conda environment (recommended)
+├─ log.txt                     # Contains the LLM usage
 └─ requirements.txt            # pip-only subset (fallback)
+
 ```
 In concise terms, `runner.py` will produce all figures and artifacts for the report. 
 
