@@ -18,7 +18,7 @@ import seaborn as sns
 from tqdm import tqdm
 
 from models import MLP
-from organized.utils import (
+from utils import (
     print_header,
     calculate_ood_metrics,
     plot_training_summary,

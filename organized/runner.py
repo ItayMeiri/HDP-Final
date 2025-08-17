@@ -1,7 +1,7 @@
 # runner.py
-from organized.combined_covertype import main as run_combined_covertype
-from organized.tox21_pipeline import main as run_tox21
-from organized.ood_covtype import main as run_ood_covtype
+from combined_covertype import main as run_combined_covertype
+from tox21_pipeline import main as run_tox21
+from ood_covtype import main as run_ood_covtype
 
 
 def main():

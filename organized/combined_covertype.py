@@ -1,11 +1,11 @@
 # combined_covertype.py
 import numpy as np
 
-from organized.funcs import (
+from funcs import (
     load_and_sanitize_covertype,
     run_step5_extensions,
 )
-from organized.utils import (
+from utils import (
     sample_off_diagonal_pairs,
     compute_pairwise_distances_for_pairs,
     histogram_overlap_coefficient,

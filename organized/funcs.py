@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import silhouette_score
 
-from organized.utils import (
+from utils import (
     sample_off_diagonal_pairs,
     compute_pairwise_distances_for_pairs,
     histogram_overlap_coefficient,
